@@ -1,0 +1,11 @@
+inherit kde4
+
+NAME="kronometer"
+VERSION=1.5.2
+RELEASE=1
+CATEGORY="KDE"
+SUMMARY="KDE stopwatch application"
+DESCRIPTION="Kronometer is a stopwatch application built for the KDE Desktop
+Environment."
+HOMEPAGE="http://www.aelog.org/kronometer/"
+SRC_URI="mirror://kde/stable/kronometer/${VERSION}/src/${NAME}-${VERSION}.tar.xz"
